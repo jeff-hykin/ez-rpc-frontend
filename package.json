@@ -1,0 +1,26 @@
+{
+  "name": "ez-rpc-frontend",
+  "version": "0.0.0",
+  "description": "Cross language remote execution",
+  "main": "./javascript/frontend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeff-hykin/ez-rpc.git"
+  },
+  "keywords": [
+    "ez-rpc",
+    "rpc"
+  ],
+  "author": "Jeff Hykin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeff-hykin/ez-rpc/issues"
+  },
+  "homepage": "https://github.com/jeff-hykin/ez-rpc#readme",
+  "dependencies": {
+    "good-js": "3.0.2"
+  }
+}
